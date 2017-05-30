@@ -1,0 +1,6 @@
+---
+applications:
+- name: manojwebapp1
+  memory: 512M
+  host: manojwebapp1
+  domain: mybluemix.net
